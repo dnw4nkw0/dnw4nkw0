@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning about cloud engineering. 
 <!--
 **dnw4nkw0/dnw4nkw0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
